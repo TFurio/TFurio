@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">Fullstack Web Developer</h3>
+
+<p> 
+I recently graduated from Le Wagon's Fullstack Web Development Bootcamp, an intensive and immersive program that equipped me with a comprehensive skill set in web development. The curriculum, designed to be both challenging and dynamic, covered a wide range of technologies and best practices in the industry. Throughout the program, I honed my abilities in frontend development using HTML, CSS, and Bootstrap, as well as delving into the intricacies of backend development with Ruby on Rails, PostgreSQL, MySQL, and Redis. The collaborative and hands-on nature of the bootcamp fostered an environment where problem-solving and creative thinking were paramount, preparing me for the diverse challenges that lie ahead in the web development sector.
+
+As I embark on the next chapter of my journey in the web development sector, I am filled with enthusiasm and a sense of purpose. The bootcamp not only provided me with technical skills but also instilled in me a profound appreciation for the importance of efficient coding practices, collaboration, and continuous learning. Drawing on over a decade of experiences in the fine dining and beverage industry, coupled with my background in illustration, I bring a unique perspective to web development. My prior career has finely honed my creative problem-solving abilities and taught me the value of attention to detail. This rich tapestry of experiences has undoubtedly been instrumental in propelling me forward on this exciting path in web development, where I am eager to apply my diverse skill set and contribute to innovative and impactful projects.
+</p>
 
 - 🔭 I’m currently working on [Sports Companion](https://www.sportscompanion.online/)
+
+- 🌱 I’m currently expanding **my proficiency in full-stack web development by exploring a diverse array of programming languages.**
+
+- Inquire about **my past experiences and discover how they significantly contributed to my journey in web development.**
 
 - 📫 How to reach me **tommyfurio@gmail.com**
 
